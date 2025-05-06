@@ -1,116 +1,72 @@
-# EcoFlitz LTD
+# 👋 Hi, I'm Muhammad Afzal Nazim
 
-Welcome to the official **EcoFlitz LTD** repository! 🌐📱
-
-EcoFlitz LTD is a UK-based company offering expert web and mobile development services that help businesses thrive in the digital age. Our team combines technical skill with creative insight to provide custom solutions tailored to each client’s needs, from website and app development to e-commerce optimization. At EcoFlitz, we are dedicated to delivering high-quality, reliable, and sustainable technology solutions that empower our clients to succeed.
+Welcome to my GitHub profile! I'm a passionate full-stack developer and tech entrepreneur based in the UK, with 9+ years of experience building robust web and mobile solutions.
 
 ---
 
-## 🚀 What We Do
+## 🚀 What I Do
 
-EcoFlitz LTD specializes in providing end-to-end development services to businesses looking to grow and innovate. Whether you're a startup or an established enterprise, we offer a range of custom solutions designed to meet your unique needs, including:
+I specialize in helping businesses and startups thrive by delivering modern, scalable, and user-friendly digital products. My services include:
 
-- **Web Development**: Build modern, responsive websites that deliver exceptional user experiences.
-- **Mobile App Development**: Create intuitive, scalable mobile apps for iOS and Android platforms.
-- **E-Commerce Optimization**: Enhance online stores with advanced features, better performance, and a smooth user journey.
-- **Custom Software Solutions**: Tailor-made applications designed to streamline your business processes and boost productivity.
-- **Remote Developers**: Developer at your service anytime
-
----
-
-## 📘 Our Mission
-
-At EcoFlitz, we are driven by the mission to help businesses succeed through technology. We focus on:
-
-- Delivering high-quality, user-centric digital solutions
-- Ensuring sustainability in every project, from design to deployment
-- Providing top-notch support and maintenance for long-term growth
+- **Web Development** – Responsive, high-performance websites using modern tech stacks
+- **Mobile App Development** – Scalable apps for iOS & Android using React Native, Flutter, and more
+- **Custom Software** – Tailored tools to streamline your workflows and boost productivity
+- **E-Commerce Optimization** – Enhance your store's UX, speed, and conversion rate
+- **Remote Development Services** – Need an extra dev on your team? I'm available for remote collaboration
 
 ---
 
 ## 🛠️ Tech Stack
 
-At EcoFlitz, we specialize in delivering cutting-edge software solutions using modern technologies. Here's an overview of the technologies we work with:
+Here's a quick overview of the technologies I work with regularly:
 
-### 🌍 **Languages**:
-- Python
-- JavaScript
-- TypeScript
-- PHP
-- C#
+### 🌍 Languages
+`Python`, `JavaScript`, `TypeScript`, `PHP`, `C#`
 
-### ⚙️ **Frameworks & Libraries**:
-- **Frontend**: React.js, Angular, Vue.js, Next.js
-- **Backend**: Node.js, Django, Flask, Laravel, ASP.NET Core
+### ⚙️ Frameworks
+**Frontend**: `React.js`, `Next.js`, `Vue.js`, `Angular`  
+**Backend**: `Node.js`, `Django`, `Flask`, `Laravel`, `ASP.NET Core`
 
-### 📱 **Mobile Development**:
-- React Native
-- Flutter
-- Swift
-- Kotlin
+### 📱 Mobile
+`React Native`, `Flutter`, `Swift`, `Kotlin`
 
-### ☁️ **Cloud Platforms**:
-- AWS
-- Google Cloud
-- Azure
-- DigitalOcean
+### ☁️ Cloud & DevOps
+`AWS`, `Google Cloud`, `Azure`, `Docker`, `Kubernetes`, `GitHub Actions`, `GitLab CI`
 
-### 🔧 **DevOps & CI/CD**:
-- Docker
-- Kubernetes
-- GitHub Actions
-- GitLab CI
+### 🗄️ Databases
+`PostgreSQL`, `MySQL`, `MongoDB`, `Firebase`, `Redis`, `MSSQL`
 
-### 🗄️ **Databases**:
-- MySQL
-- PostgreSQL
-- MongoDB
-- Redis
-- Firebase
-- MSSQL
+### 🔍 Other Tools
+`GraphQL`, `REST APIs`, `Celery`, `Elasticsearch`, `Git`
 
-### 🔍 **Other Tools**:
-- Elasticsearch
-- GraphQL
-- REST APIs
-- Celery
-- Git
-
-### 📦 **CMS**:
-- WordPress
-- Magento 2
-- Webflow
+### 📦 CMS
+`WordPress`, `Magento 2`, `Webflow`
 
 ---
 
-## 🌱 Why Choose EcoFlitz?
+## 📘 My Mission
 
-- **Tailored Solutions**: We understand that every business is unique, and we provide customized solutions that meet your specific requirements.
-- **Expert Team**: Our team consists of experienced developers, designers, and project managers who ensure that every project is a success.
-- **Sustainability**: We incorporate sustainable practices into our solutions, from optimizing energy usage to choosing eco-friendly technologies.
+I’m passionate about building impactful, future-ready software and empowering businesses through clean code, efficient systems, and sustainable practices. I’m also committed to sharing knowledge and helping others learn to code.
 
 ---
 
-## 🌱 How You Can Work with Us
+## 💡 Let's Collaborate
 
-We believe in collaboration and making the process as smooth as possible. Here's how you can get started:
+I'm always open to:
 
-- **Contact Us**: Reach out for a consultation to discuss your project's needs and goals at [info@ecoflitz.co.uk](mailto:info@ecoflitz.co.uk).
-- **Explore Our Work**: Check out our portfolio to see how we've helped other businesses succeed.
-- **Partner with Us**: Ready to grow your business? Let’s work together to develop the perfect solution!
+- New freelance or contract opportunities
+- Collaborating on exciting open-source projects
+- Mentorship and community initiatives
 
----
-
-## 🔗 Connect with Us
-
-Stay up-to-date with the latest news and updates from EcoFlitz:
-
-- [Website](https://www.ecoflitz.co.uk)
-- [LinkedIn](https://www.linkedin.com/company/ecoflitz)
-- [Email](mailto:info@ecoflitz.co.uk)
+📩 You can reach me at: [muhammadafzalnazim@gmail.com](mailto:muhammadafzalnazim@gmail.com)
 
 ---
 
-## 🌍 Empowering Your Digital Success
+## 🌐 More About Me
 
-At EcoFlitz, we help businesses thrive with cutting-edge technology and customized solutions. Let’s build something great together! 🚀
+- 🧑‍💻 Currently learning: `Rust` for high-performance APIs
+- 📚 Passionate about teaching and mentoring junior developers
+
+---
+
+> *"Technology should empower, not overwhelm. I build with people, performance, and purpose in mind."*
